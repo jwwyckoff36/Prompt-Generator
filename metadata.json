@@ -1,0 +1,5 @@
+{
+  "name": "Prompt Generator",
+  "description": "An automated prompt generation tool with secure access and human verification.",
+  "requestFramePermissions": []
+}
